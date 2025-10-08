@@ -1254,7 +1254,6 @@ select.form-control:not([size]):not([multiple]) {
 }
 .pricing_section .price_wrap .price_list li h4:after {
   color: #bbb;
-  content: "-----------------";
   font-weight: 400;
   margin-left: 15px;
   position: absolute;
